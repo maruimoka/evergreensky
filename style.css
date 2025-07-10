@@ -57,7 +57,7 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  height: 200px; /* Limit how tall the green bar is */
+  height: 300px; /* Limit how tall the green bar is */
   padding: 2rem;
   flex-wrap: wrap;
   overflow: hidden;
