@@ -57,12 +57,18 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  padding: 2rem;
+  padding: 3rem 2rem;
   flex-wrap: wrap;
   background-color: #1e5e45;
   border-radius: 1rem;
-  min-height: 400px;  /* Sets a minimum height, but allows growth */
+
+  /* NEW: control how tall the green area is */
+  max-width: 1000px;
+  margin: 3rem auto;
+  min-height: 400px;
+  box-sizing: border-box;
 }
+
 .character-profile::before {
   content: "";
   position: absolute;
