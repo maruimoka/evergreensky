@@ -92,9 +92,13 @@ footer {
   max-width: 500px;
 }
 .arrow-nav {
-  text-align: center;
-  margin-top: 1.5rem;
+  position: absolute;
+  bottom: -10px; /* Raise it higher by reducing this value */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
 }
+
 
 .arrow-nav a {
   font-size: 2rem;
