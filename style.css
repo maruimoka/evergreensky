@@ -57,14 +57,13 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  height: 300px; /* Limit how tall the green bar is */
-  padding: 2rem;
+  height: 350px; /* Limit how tall the green bar is */
+  padding: 4rem;
   flex-wrap: wrap;
   overflow: hidden;
   background-color: #1e5e45;
   border-radius: 1rem;
 }
-
 .character-profile::before {
   content: "";
   position: absolute;
