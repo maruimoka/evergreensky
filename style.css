@@ -60,7 +60,7 @@ footer {
 
 .character-background {
   position: absolute;
-  top: 100px; /* Adjust this if the green strip is too high/low */
+  top: 120px; /* Adjust this if the green strip is too high/low */
   left: 0;
   right: 0;
   height: 200px; /* Controls how "tall" the green strip is */
