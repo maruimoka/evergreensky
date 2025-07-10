@@ -57,12 +57,11 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  height: 350px; /* Limit how tall the green bar is */
-  padding: 4rem;
+  padding: 2rem;
   flex-wrap: wrap;
-  overflow: hidden;
   background-color: #1e5e45;
   border-radius: 1rem;
+  min-height: 400px;  /* Sets a minimum height, but allows growth */
 }
 .character-profile::before {
   content: "";
