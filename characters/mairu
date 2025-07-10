@@ -1,0 +1,50 @@
+<!-- characters/mairu.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mairu Tsiforvoy – EvergreenSky</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <header>
+    <h1>EvergreenSky</h1>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="midori.html">Characters</a></li>
+        <li><a href="../lore/timeline.html">Lore</a></li>
+        <li><a href="../gallery/index.html">Gallery</a></li>
+        <li><a href="../extras/index.html">Extras</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="character-profile">
+      <img src="../images/mairu-profile.png" alt="Mairu Tsiforvoy" />
+      <div class="character-info">
+        <h2>マイル・ツィフォルヴォイ (Mairu Tsiforvoy)</h2>
+        <p><strong>Role:</strong> Ex-idol, Producer of Ryuseitai<br>
+        <strong>Unit Support:</strong> Midori’s manager / Producer / Twin</p>
+        <p>
+          Mairu is a green-haired ex-idol who now works as a producer. Though she often seems mature, her hyperactive and airheaded nature frequently breaks through — especially when surrounded by friends or plushies. A military background shapes her strong instincts and physical ability, but her heart is bright, soft, and filled with hope.
+        </p>
+        <p>
+          She manages Midori and the Ryuseitai unit with enthusiasm (and chaos), even if she’s sometimes clueless about her own feelings. She's always running ahead, unaware of just how important she’s become to those behind her.
+        </p>
+      </div>
+    </section>
+
+    <div class="arrow-nav">
+      <!-- ← Back to Midori -->
+      <a href="midori.html">&#8592;</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 EvergreenSky • Built with love</p>
+  </footer>
+</body>
+</html>
